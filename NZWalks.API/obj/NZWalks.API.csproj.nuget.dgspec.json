@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\NZWalks.API.csproj": {}
+    "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks.API\\NZWalks.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\NZWalks.API.csproj": {
+    "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks.API\\NZWalks.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
+        "projectUniqueName": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
         "projectName": "NZWalks.API",
-        "projectPath": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
+        "projectPath": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
         "packagesPath": "C:\\Users\\hassa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\obj\\",
+        "outputPath": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
