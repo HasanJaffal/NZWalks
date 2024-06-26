@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\hassa\\desktop\\web api course\\nzwalks\\nzwalks\\nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\hassa\\desktop\\web api course\\nzwalks\\nzwalks\\nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\hassa\\desktop\\web api course\\nzwalks\\nzwalks\\nzwalks.api\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\hassa\\desktop\\web api course\\nzwalks\\nzwalks\\nzwalks.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\hassa\\desktop\\web api course\\nzwalks\\nzwalks\\nzwalks.api\\repositories\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\hassa\\desktop\\web api course\\nzwalks\\nzwalks\\nzwalks.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\hassa\\desktop\\web api course\\nzwalks\\nzwalks\\nzwalks.api\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\hassa\\desktop\\web api course\\nzwalks\\nzwalks\\nzwalks.api\\models\\dto\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\hassa\\desktop\\web api course\\nzwalks\\nzwalks\\nzwalks.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\hassa\\desktop\\web api course\\nzwalks\\nzwalks\\nzwalks.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\hassa\\desktop\\web api course\\nzwalks\\nzwalks\\nzwalks.api\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\hassa\\desktop\\web api course\\nzwalks\\nzwalks\\nzwalks.api\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\hassa\\desktop\\web api course\\nzwalks\\nzwalks\\nzwalks.api\\repositories\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\hassa\\desktop\\web api course\\nzwalks\\nzwalks\\nzwalks.api\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\hassa\\desktop\\web api course\\nzwalks\\nzwalks\\nzwalks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\hassa\\desktop\\web api course\\nzwalks\\nzwalks\\nzwalks.api\\migrations\\nzwalksauthdb\\20240617132804_creating authdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0914C93A-6ACC-4BDE-B346-FFC693AE94C2}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\migrations\\nzwalksauthdb\\20240617132804_creating authdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Program.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Program.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Program.cs",
+              "RelativeToolTip": "NZWalks.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:37:57.453Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1ce3aef-c78d-49ee-b72b-ec1fbc908313}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Repositories\\IImageRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\IImageRepository.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Repositories\\IImageRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\IImageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T19:39:16.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImageUploadRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T19:17:49.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\ImagesController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDAAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T19:14:43.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NZWalksDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "RelativeToolTip": "NZWalks.API\\Data\\NZWalksDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T15:35:46.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\RegionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:53:19.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "NZWalks.API\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwCUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:40:05.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Repositories\\ImageRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\ImageRepository.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Repositories\\ImageRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\ImageRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T19:40:28.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Models\\Domain\\Image.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\Domain\\Image.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Models\\Domain\\Image.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\Domain\\Image.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T15:31:54.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Repositories\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\TokenRepository.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Repositories\\TokenRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\TokenRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:53:54.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Repositories\\ITokenRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\ITokenRepository.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Repositories\\ITokenRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\ITokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:52:19.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Models\\DTO\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\RegisterRequestDto.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Models\\DTO\\RegisterRequestDto.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\RegisterRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:42:45.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:38:48.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240617132804_Creating AuthDb.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Migrations\\NZWalksAuthDb\\20240617132804_Creating AuthDb.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Migrations\\NZWalksAuthDb\\20240617132804_Creating AuthDb.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Migrations\\NZWalksAuthDb\\20240617132804_Creating AuthDb.cs",
+              "RelativeToolTip": "NZWalks.API\\Migrations\\NZWalksAuthDb\\20240617132804_Creating AuthDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:28:04.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Models\\DTO\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Models\\DTO\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\Models\\DTO\\LoginResponseDto.cs",
+              "RelativeToolTip": "NZWalks.API\\Models\\DTO\\LoginResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:28:55.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\appsettings.json",
+              "RelativeDocumentMoniker": "NZWalks.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\WEB API Course\\NZWalks\\NZWalks\\NZWalks.API\\appsettings.json",
+              "RelativeToolTip": "NZWalks.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-17T12:35:06.712Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 717,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 717,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
